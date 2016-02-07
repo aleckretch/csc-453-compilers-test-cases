@@ -1,0 +1,1 @@
+extern void main ( int x ); /* test simple program */

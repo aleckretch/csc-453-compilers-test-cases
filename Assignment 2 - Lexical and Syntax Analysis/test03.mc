@@ -1,0 +1,1 @@
+void main ( int x ); /* test optional extern */
